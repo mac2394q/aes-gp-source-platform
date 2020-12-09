@@ -1,0 +1,28 @@
+[25-Sep-2019 09:30:04 UTC] PHP Notice:  Undefined index: area in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 16
+[25-Sep-2019 10:18:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::etCorreo_usuario() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/usuarioDao.php:57
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php(28): usuarioDao::modificarUsuario(Object(usuario))
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/usuarioDao.php on line 57
+[25-Sep-2019 10:44:57 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta2/documents/fotosPerfilEmpleados/4/4.jpg): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[25-Sep-2019 10:44:57 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0QGw4u' to '/home1/portalxn/public_html/aesbeta2/documents/fotosPerfilEmpleados/4/4.jpg' in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[25-Sep-2019 10:45:33 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta2/documents/fotosPerfilEmpleados/4/4.jpg): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[25-Sep-2019 10:45:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprB8stp' to '/home1/portalxn/public_html/aesbeta2/documents/fotosPerfilEmpleados/4/4.jpg' in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[29-Sep-2019 08:51:52 UTC] PHP Notice:  Undefined index: usuario in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 18
+[29-Sep-2019 08:51:52 UTC] PHP Notice:  Undefined index: clave in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 19
+[29-Sep-2019 08:54:35 UTC] PHP Notice:  Undefined index: usuario in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 18
+[29-Sep-2019 08:54:35 UTC] PHP Notice:  Undefined index: clave in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 19
+[29-Nov-2019 14:20:12 UTC] PHP Fatal error:  Uncaught Error: Class 'usuarioController' not found in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/consultaUsuario.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/consultaUsuario.php on line 15
+[29-Nov-2019 14:56:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sesionDao::autentificacion(), 3 passed in /home1/portalxn/public_html/aesbeta2/app/controllers/sesionController.php on line 17 and exactly 6 expected in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/sesionDao.php:129
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/sesionController.php(17): sesionDao::autentificacion('1111797508', '1111797508', '')
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/autentificacion.php(13): sesionController::autentificacion('1111797508', '1111797508', '')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/sesionDao.php on line 129
+[22-Feb-2020 22:41:02 UTC] PHP Fatal error:  Uncaught Error: Class 'empresaController' not found in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/desactivar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/core/desactivar.php on line 10

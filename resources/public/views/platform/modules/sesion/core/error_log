@@ -1,0 +1,58 @@
+[12-Apr-2019 09:49:18 UTC] PHP Warning:  require_once(PROVIDERS_PATHpdo/sesionDao.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/app/controllers/sesionController.php on line 4
+[12-Apr-2019 09:49:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'PROVIDERS_PATHpdo/sesionDao.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/app/controllers/sesionController.php on line 4
+[12-Apr-2019 09:51:01 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/app/providers/pdo/sesionDao.php on line 8
+[12-Apr-2019 09:51:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/app/providers/pdo/sesionDao.php on line 8
+[12-Apr-2019 09:52:06 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/providers/pdo/usuarioDao.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 4
+[12-Apr-2019 09:52:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/providers/pdo/usuarioDao.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 4
+[12-Apr-2019 09:52:14 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/providers/pdo/usuarioDao.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 4
+[12-Apr-2019 09:52:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/providers/pdo/usuarioDao.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 4
+[12-Apr-2019 10:10:53 UTC] PHP Fatal error:  Uncaught Error: Class 'sesionDao' not found in /home1/portalxn/public_html/aesbeta/app/controllers/sesionController.php:10
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/sesion/core/validaSesion.php(7): sesionController::validarSesion('admin', 'admin')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/sesionController.php on line 10
+[05-Jun-2019 09:32:51 UTC] PHP Fatal error:  Uncaught Error: Class 'sesionController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/sesion/core/autentificacion.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/sesion/core/autentificacion.php on line 8
+[05-Jun-2019 09:33:06 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/controllers/sesionController): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/sesion/core/autentificacion.php on line 6
+[05-Jun-2019 09:33:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/controllers/sesionController' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/sesion/core/autentificacion.php on line 6
+[05-Jun-2019 09:33:23 UTC] PHP Notice:  Undefined index: sesion in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/sesion/core/autentificacion.php on line 8
+[08-Sep-2019 15:36:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php on line 52
+[08-Sep-2019 16:31:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getEstado_sesion() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php on line 21
+[08-Sep-2019 16:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getEstado_sesion() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php on line 21
+[08-Sep-2019 16:32:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php on line 25
+[08-Sep-2019 16:40:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php on line 21
+[23-Nov-2019 04:36:38 UTC] PHP Fatal error:  Uncaught Error: Class 'empresaController' not found in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php on line 22
+[25-Jan-2020 00:00:53 UTC] PHP Fatal error:  Cannot redeclare usuarioController::listadoUsuariosEspecialistas() in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php on line 137
+[25-Jan-2020 00:01:01 UTC] PHP Fatal error:  Cannot redeclare usuarioController::listadoUsuariosEspecialistas() in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php on line 137
+[25-Jan-2020 00:01:08 UTC] PHP Fatal error:  Cannot redeclare usuarioController::listadoUsuariosEspecialistas() in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php on line 137
+[22-Feb-2020 21:45:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function usuario::__construct(), 12 passed in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/sesionDao.php on line 31 and exactly 13 expected in /home1/portalxn/public_html/aesbeta2/app/model/usuario.php:29
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/providers/pdo/sesionDao.php(31): usuario->__construct('4', '1', '111111111111', 'adiministrador', 'ADMINISTRADOR', 'admin', 'admin', NULL, NULL, NULL, NULL, '2019-12-13')
+#1 /home1/portalxn/public_html/aesbeta2/app/controllers/sesionController.php(9): sesionDao::validarSesion('admin', 'admin')
+#2 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php(8): sesionController::validarSesion('admin', 'admin')
+#3 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/model/usuario.php on line 29
+[22-Feb-2020 21:59:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function usuario::__construct(), 12 passed in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/sesionDao.php on line 31 and exactly 13 expected in /home1/portalxn/public_html/aesbeta2/app/model/usuario.php:29
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/providers/pdo/sesionDao.php(31): usuario->__construct('4', '1', '111111111111', 'adiministrador', 'ADMINISTRADOR', 'admin', 'admin', NULL, NULL, NULL, NULL, '2019-12-13')
+#1 /home1/portalxn/public_html/aesbeta2/app/controllers/sesionController.php(9): sesionDao::validarSesion('admin', 'admin')
+#2 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/sesion/core/validaSesion.php(8): sesionController::validarSesion('admin', 'admin')
+#3 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/model/usuario.php on line 29

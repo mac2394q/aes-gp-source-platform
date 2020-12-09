@@ -1,0 +1,140 @@
+[28-Sep-2019 01:14:18 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 854
+[28-Sep-2019 01:14:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method empresa::getIdgrupoEmpresarial() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php:581
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/empresaController.php(16): empresaDao::crearEmpresa(Object(empresa))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php(42): empresaController::registrarEmpresa(Object(empresa))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 581
+[28-Sep-2019 01:17:27 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 854
+[28-Sep-2019 01:17:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method empresa::getIdgrupoEmpresarial() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php:581
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/empresaController.php(16): empresaDao::crearEmpresa(Object(empresa))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php(42): empresaController::registrarEmpresa(Object(empresa))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 581
+[28-Sep-2019 01:19:59 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 854
+[28-Sep-2019 01:26:42 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 856
+[28-Sep-2019 01:27:34 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 856
+[28-Sep-2019 01:31:43 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 857
+[28-Sep-2019 01:46:40 UTC] PHP Warning:  Use of undefined constant empresa - assumed 'empresa' (this will throw an Error in a future version of PHP) in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 41
+[28-Sep-2019 01:47:11 UTC] PHP Notice:  Undefined variable: empresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 41
+[28-Sep-2019 02:12:42 UTC] PHP Notice:  Undefined index: numero in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 825
+[28-Sep-2019 02:15:06 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/18/rut.pdf): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 72
+[28-Sep-2019 02:15:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkHDJuq' to '/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/18/rut.pdf' in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 72
+[28-Sep-2019 02:15:06 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/18/camara.pdf): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 75
+[28-Sep-2019 02:15:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpye0hEy' to '/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/18/camara.pdf' in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 75
+[28-Sep-2019 02:15:06 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/18/legal.pdf): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 78
+[28-Sep-2019 02:15:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDu7Bz0' to '/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/18/legal.pdf' in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 78
+[28-Sep-2019 02:15:06 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/18/comercial.pdf): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 81
+[28-Sep-2019 02:15:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phps6uuXF' to '/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/18/comercial.pdf' in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 81
+[28-Sep-2019 02:15:06 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/18/antecedentes.pdf): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 84
+[28-Sep-2019 02:15:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0BhTMn' to '/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/18/antecedentes.pdf' in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 84
+[28-Sep-2019 22:27:19 UTC] PHP Notice:  Undefined index: grupo in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php on line 11
+[28-Sep-2019 22:27:19 UTC] PHP Notice:  Undefined index: grupo in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php on line 11
+[28-Sep-2019 22:27:19 UTC] PHP Notice:  Undefined index: grupo in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php on line 16
+[28-Sep-2019 22:27:19 UTC] PHP Notice:  Undefined index: emailContacto in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php on line 29
+[28-Sep-2019 22:27:31 UTC] PHP Notice:  Undefined index: grupo in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php on line 11
+[28-Sep-2019 22:27:31 UTC] PHP Notice:  Undefined index: grupo in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php on line 11
+[28-Sep-2019 22:27:31 UTC] PHP Notice:  Undefined index: grupo in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php on line 16
+[28-Sep-2019 22:27:31 UTC] PHP Notice:  Undefined index: emailContacto in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php on line 29
+[28-Sep-2019 22:28:36 UTC] PHP Notice:  Undefined index: emailContacto in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php on line 29
+[29-Sep-2019 03:46:49 UTC] PHP Notice:  Undefined index: rut in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 72
+[29-Sep-2019 03:46:49 UTC] PHP Notice:  Undefined index: camara in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 75
+[29-Sep-2019 03:46:49 UTC] PHP Notice:  Undefined index: legal in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 78
+[29-Sep-2019 03:46:49 UTC] PHP Notice:  Undefined index: comercial in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 81
+[29-Sep-2019 03:46:49 UTC] PHP Notice:  Undefined index: antecedentes in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 84
+[29-Sep-2019 03:54:37 UTC] PHP Notice:  Undefined index: rut in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 74
+[29-Sep-2019 03:54:37 UTC] PHP Notice:  Undefined index: camara in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 77
+[29-Sep-2019 03:54:37 UTC] PHP Notice:  Undefined index: legal in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 80
+[29-Sep-2019 03:54:37 UTC] PHP Notice:  Undefined index: comercial in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 83
+[29-Sep-2019 03:54:37 UTC] PHP Notice:  Undefined index: antecedentes in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 86
+[29-Sep-2019 03:56:37 UTC] PHP Notice:  Undefined index: rut in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 74
+[29-Sep-2019 03:56:37 UTC] PHP Notice:  Undefined index: camara in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 77
+[29-Sep-2019 03:56:37 UTC] PHP Notice:  Undefined index: legal in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 80
+[29-Sep-2019 03:56:37 UTC] PHP Notice:  Undefined index: comercial in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 83
+[29-Sep-2019 03:56:37 UTC] PHP Notice:  Undefined index: antecedentes in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 86
+[29-Sep-2019 03:58:28 UTC] PHP Notice:  Undefined index: rut in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 74
+[29-Sep-2019 03:58:28 UTC] PHP Notice:  Undefined index: camara in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 77
+[29-Sep-2019 03:58:28 UTC] PHP Notice:  Undefined index: legal in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 80
+[29-Sep-2019 03:58:28 UTC] PHP Notice:  Undefined index: comercial in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 83
+[29-Sep-2019 03:58:28 UTC] PHP Notice:  Undefined index: antecedentes in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 86
+[29-Sep-2019 04:39:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function empresa::__construct(), 22 passed in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php on line 37 and exactly 23 expected in /home1/portalxn/public_html/aesbeta2/app/model/empresa.php:39
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/modificarEmpresa.php(37): empresa->__construct('43', NULL, '48', 'A1', 'a2', 'AA3', 'A4', 'A5', NULL, 'a6', 'a7', 'A8', 'A9', 'a10', 'a11', 'A12', 'A13', 'a14', 'a15', 'a16', 'a17-a18', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/model/empresa.php on line 39
+[29-Sep-2019 04:41:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function empresa::__construct(), 22 passed in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 40 and exactly 23 expected in /home1/portalxn/public_html/aesbeta2/app/model/empresa.php:39
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php(40): empresa->__construct(NULL, '1', '1', '', '', '', '', '', 'PRIVADA', '', '', '', '', '', '', '', '', '', '', '', '-', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/model/empresa.php on line 39
+[29-Sep-2019 04:41:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function empresa::__construct(), 22 passed in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 40 and exactly 23 expected in /home1/portalxn/public_html/aesbeta2/app/model/empresa.php:39
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php(40): empresa->__construct(NULL, '1', '1', '', '', '', '', '', 'PRIVADA', '', '', '', '', '', '', '', '', '', '', '', '-', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/model/empresa.php on line 39
+[29-Sep-2019 04:42:30 UTC] PHP Notice:  Undefined index: rut in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 75
+[29-Sep-2019 04:42:30 UTC] PHP Notice:  Undefined index: camara in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 78
+[29-Sep-2019 04:42:30 UTC] PHP Notice:  Undefined index: legal in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 81
+[29-Sep-2019 04:42:30 UTC] PHP Notice:  Undefined index: comercial in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 84
+[29-Sep-2019 04:42:30 UTC] PHP Notice:  Undefined index: antecedentes in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 87
+[29-Sep-2019 05:05:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId_entidad() on string in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php:418
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/empresaController.php(51): empresaDao::modificarEmpresa('a2')
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/autentificacionEmpresa.php(12): empresaController::modificarEmpresa('a2', 'a2', '20')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 418
+[30-Sep-2019 20:43:42 UTC] PHP Notice:  Undefined index: rut in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 75
+[30-Sep-2019 20:43:42 UTC] PHP Notice:  Undefined index: camara in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 78
+[30-Sep-2019 20:43:42 UTC] PHP Notice:  Undefined index: legal in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 81
+[30-Sep-2019 20:43:42 UTC] PHP Notice:  Undefined index: comercial in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 84
+[30-Sep-2019 20:43:42 UTC] PHP Notice:  Undefined index: antecedentes in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 87
+[01-Oct-2019 19:37:42 UTC] PHP Notice:  Undefined index: camara in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 78
+[01-Oct-2019 19:37:42 UTC] PHP Notice:  Undefined index: legal in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 81
+[01-Oct-2019 19:37:42 UTC] PHP Notice:  Undefined index: comercial in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 84
+[01-Oct-2019 19:37:42 UTC] PHP Notice:  Undefined index: antecedentes in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 87
+[01-Oct-2019 22:11:18 UTC] PHP Notice:  Undefined index: rut in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 75
+[01-Oct-2019 22:11:18 UTC] PHP Notice:  Undefined index: camara in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 78
+[01-Oct-2019 22:11:18 UTC] PHP Notice:  Undefined index: legal in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 81
+[01-Oct-2019 22:11:18 UTC] PHP Notice:  Undefined index: comercial in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 84
+[01-Oct-2019 22:11:18 UTC] PHP Notice:  Undefined index: antecedentes in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 87
+[07-Oct-2019 12:06:19 UTC] PHP Notice:  Undefined index: rut in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 75
+[07-Oct-2019 12:06:19 UTC] PHP Notice:  Undefined index: camara in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 78
+[07-Oct-2019 12:06:19 UTC] PHP Notice:  Undefined index: legal in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 81
+[07-Oct-2019 12:06:19 UTC] PHP Notice:  Undefined index: comercial in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 84
+[07-Oct-2019 12:06:19 UTC] PHP Notice:  Undefined index: antecedentes in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 87
+[03-Nov-2019 01:55:33 UTC] PHP Notice:  Undefined index: area in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 8
+[03-Nov-2019 01:55:33 UTC] PHP Notice:  Undefined index: estado in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 8
+[03-Nov-2019 01:55:33 UTC] PHP Notice:  Undefined variable: type in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 127
+[15-Nov-2019 08:49:41 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 466
+[15-Nov-2019 08:52:42 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 466
+[15-Nov-2019 08:54:12 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/empresaDao.php on line 466
+[25-Nov-2019 07:55:37 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/3/rut.pdf): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/documento1.php on line 10
+[25-Nov-2019 07:55:37 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZYGeUf' to '/home1/portalxn/public_html/aesbeta2/documents/documentos/empresa/3/rut.pdf' in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/documento1.php on line 10
+[29-Nov-2019 12:37:28 UTC] PHP Notice:  Undefined index: tipoEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 12:37:28 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 12:38:56 UTC] PHP Notice:  Undefined index: tipoEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:14:17 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:14:24 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:14:30 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:14:45 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:14:52 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:15:20 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:15:27 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:15:49 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:16:12 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:17:20 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:17:29 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:17:53 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:18:02 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:22:49 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:28:13 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 13:28:24 UTC] PHP Notice:  Undefined index: ordenEmpresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/consultaEmpresa.php on line 15
+[29-Nov-2019 14:51:10 UTC] PHP Notice:  Undefined index: idusuario in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/autentificacionEmpresa.php on line 12
+[29-Nov-2019 14:51:10 UTC] PHP Notice:  Undefined index: idempresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/autentificacionEmpresa.php on line 18
+[18-Feb-2020 20:56:53 UTC] PHP Parse error:  syntax error, unexpected 'idempresa' (T_STRING) in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 96
+[18-Feb-2020 20:57:11 UTC] PHP Parse error:  syntax error, unexpected 'idempresa' (T_STRING) in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 96
+[18-Feb-2020 20:57:22 UTC] PHP Parse error:  syntax error, unexpected 'idempresa' (T_STRING) in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 96
+[18-Feb-2020 21:02:00 UTC] PHP Parse error:  syntax error, unexpected 'idempresa' (T_STRING) in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 96
+[19-Feb-2020 01:54:49 UTC] PHP Parse error:  syntax error, unexpected 'idempresa' (T_STRING) in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 96
+[19-Feb-2020 02:06:50 UTC] PHP Notice:  Undefined index: idempresa in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/empresa/core/registrarEmpresa.php on line 96

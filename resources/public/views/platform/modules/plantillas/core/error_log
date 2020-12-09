@@ -1,0 +1,199 @@
+[28-May-2019 06:08:45 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/model/plantillaGrupo.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php on line 9
+[28-May-2019 06:08:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/model/plantillaGrupo.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php on line 9
+[28-May-2019 06:09:42 UTC] PHP Fatal error:  Uncaught Error: Class 'plantillaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php on line 21
+[28-May-2019 06:24:50 UTC] PHP Notice:  Undefined variable: modelPlantilla in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 36
+[28-May-2019 06:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getIdplantilla_maestra_grupo() on null in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:36
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 36
+[28-May-2019 06:26:03 UTC] PHP Notice:  Undefined variable: modelPlantilla in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 37
+[28-May-2019 06:26:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getIdplantilla_maestra_grupo() on null in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:37
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 37
+[28-May-2019 06:26:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdplantilla_maestra_grupo() in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:37
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 37
+[28-May-2019 06:28:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdplantilla_maestra_grupo() in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:37
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 37
+[28-May-2019 06:30:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdplantilla_maestra_grupo() in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:37
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 37
+[28-May-2019 06:36:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdplantilla_maestra_grupo() in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:38
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 38
+[28-May-2019 06:38:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdplantilla_maestra_grupo() in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:38
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 38
+[28-May-2019 06:38:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdplantilla_maestra_grupo() in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:38
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 38
+[28-May-2019 06:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdplantilla_maestra_grupo() in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:38
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 38
+[28-May-2019 06:38:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdplantilla_maestra_grupo() in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:38
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 38
+[28-May-2019 06:40:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdplantilla_maestra_grupo() in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:38
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(18): plantillaDao::registrarPlantillaGrupo(Object(plantilla))
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(32): plantillaController::registrarPlantillaGrupo(Object(plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 38
+[28-May-2019 21:12:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 44
+[28-May-2019 21:13:20 UTC] PHP Fatal error:  Uncaught Error: Class 'item_grupo_plantilla' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 20
+[28-May-2019 21:13:49 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 35
+[28-May-2019 21:16:05 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 35
+[28-May-2019 21:16:05 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 36
+[28-May-2019 21:19:23 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 35
+[28-May-2019 21:19:23 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 36
+[28-May-2019 21:25:03 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 35
+[28-May-2019 21:25:03 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 36
+[28-May-2019 21:38:21 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 35
+[28-May-2019 21:38:21 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 36
+[28-May-2019 21:39:58 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 35
+[28-May-2019 21:39:58 UTC] PHP Notice:  Undefined variable: id in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php on line 36
+[30-Sep-2019 12:39:59 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 247
+[30-Sep-2019 16:33:30 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta2/app/model/plantilla_alcanc.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php on line 7
+[30-Sep-2019 16:33:30 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta2/app/model/plantilla_alcanc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php on line 7
+[30-Sep-2019 16:33:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla_alcance::getIdarea_tecnica_plantilla() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php:21
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/plantillaController.php(45): plantilla_alcanceDao::registrarPlantilla(Object(plantilla_alcance))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(20): plantillaController::registrarPlantilla(Object(plantilla_alcance))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 21
+[30-Sep-2019 17:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method grupo_plantilla_alcance::getIdplantilla_maestra_grupo() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php:37
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/plantillaController.php(48): plantilla_alcanceDao::registrarPlantillaGrupo(Object(grupo_plantilla_alcance))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/registroPlantilla.php(43): plantillaController::registrarPlantillaGrupo(Object(grupo_plantilla_alcance))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 37
+[30-Sep-2019 17:25:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method grupoPlantilla::getId_plantilla_alcance() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php:37
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/plantillaController.php(48): plantilla_alcanceDao::registrarPlantillaGrupo(Object(grupoPlantilla))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/registrarGrupo.php(21): plantillaController::registrarPlantillaGrupo(Object(grupoPlantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 37
+[30-Sep-2019 17:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method grupoPlantilla::getId_plantilla_alcance() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php:37
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/plantillaController.php(48): plantilla_alcanceDao::registrarPlantillaGrupo(Object(grupoPlantilla))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/registrarGrupo.php(22): plantillaController::registrarPlantillaGrupo(Object(grupoPlantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 37
+[30-Sep-2019 17:30:00 UTC] PHP Notice:  Undefined variable: modelPlantillaGrupo in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 28
+[30-Sep-2019 17:30:00 UTC] PHP Notice:  Undefined variable: modelPlantillaGrupo in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 37
+[30-Sep-2019 17:30:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId_plantilla_alcance() on null in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php:37
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/plantillaController.php(48): plantilla_alcanceDao::registrarPlantillaGrupo(Object(grupoPlantilla))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/registrarGrupo.php(22): plantillaController::registrarPlantillaGrupo(Object(grupoPlantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 37
+[30-Sep-2019 17:30:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method grupoPlantilla::getId_plantilla_alcance() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php:37
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/plantillaController.php(48): plantilla_alcanceDao::registrarPlantillaGrupo(Object(grupoPlantilla))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/registrarGrupo.php(22): plantillaController::registrarPlantillaGrupo(Object(grupoPlantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 37
+[30-Sep-2019 18:19:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla_alcance::getIdgrupo_plantilla_item() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php:122
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/plantillaController.php(51): plantilla_alcanceDao::registrarPlantillaItem(Object(item_grupo_plantilla_alcance))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/registroPlantillaGrupo.php(22): plantillaController::registrarPlantillaItem(Object(item_grupo_plantilla_alcance))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 122
+[30-Sep-2019 18:21:59 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 303
+[27-Oct-2019 10:56:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla::getEtiqueta_item_plantilla() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php:87
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/plantillaController.php(55): plantilla_alcanceDao::editarPlantillaItem(Object(item_grupo_plantilla))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/editarRubrica.php(17): plantillaController::editarPlantillaItem(Object(item_grupo_plantilla))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 87
+[27-Oct-2019 11:17:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla_alcance::getDescripcion_item_grupo_plantilla() in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php:88
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/app/controllers/plantillaController.php(55): plantilla_alcanceDao::editarPlantillaItem(Object(item_grupo_plantilla_alcance))
+#1 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/editarRubrica.php(17): plantillaController::editarPlantillaItem(Object(item_grupo_plantilla_alcance))
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 88
+[28-Oct-2019 11:24:14 UTC] PHP Notice:  Undefined index: id in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 8
+[28-Oct-2019 11:24:14 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 289
+[28-Oct-2019 11:24:14 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 290
+[28-Oct-2019 11:24:14 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 291
+[28-Oct-2019 11:24:14 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 292
+[28-Oct-2019 11:24:14 UTC] PHP Notice:  Undefined index: id in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 9
+[28-Oct-2019 11:24:14 UTC] PHP Notice:  Undefined index: id in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 10
+[28-Oct-2019 11:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method grupo_plantilla_alcance::getId_grupo_plantilla_certificacion() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 12
+[28-Oct-2019 11:24:39 UTC] PHP Notice:  Undefined index: id in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 8
+[28-Oct-2019 11:24:39 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 289
+[28-Oct-2019 11:24:39 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 290
+[28-Oct-2019 11:24:39 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 291
+[28-Oct-2019 11:24:39 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 292
+[28-Oct-2019 11:24:39 UTC] PHP Notice:  Undefined index: id in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 9
+[28-Oct-2019 11:24:39 UTC] PHP Notice:  Undefined index: id in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 10
+[28-Oct-2019 11:24:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method grupo_plantilla_alcance::getId_grupo_plantilla_certificacion() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 12
+[28-Oct-2019 11:31:56 UTC] PHP Notice:  Undefined index: id in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 8
+[28-Oct-2019 11:31:56 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 289
+[28-Oct-2019 11:31:56 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 290
+[28-Oct-2019 11:31:56 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 291
+[28-Oct-2019 11:31:56 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 292
+[28-Oct-2019 11:31:56 UTC] PHP Notice:  Undefined index: id in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 9
+[28-Oct-2019 11:31:56 UTC] PHP Notice:  Undefined index: id in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 10
+[28-Oct-2019 11:31:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method grupo_plantilla_alcance::getId_grupo_plantilla_certificacion() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 12
+[28-Oct-2019 11:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method grupo_plantilla_alcance::getId_grupo_plantilla_certificacion() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 12
+[28-Oct-2019 11:33:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method grupo_plantilla_alcance::getId_grupo_plantilla_certificacion() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 12
+[28-Oct-2019 11:33:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method grupo_plantilla_alcance::getId_grupo_plantilla_certificacion() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/plantillas/core/eliminarGrupo.php on line 12
+[29-Oct-2019 06:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 289
+[29-Oct-2019 06:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 290
+[29-Oct-2019 06:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 291
+[29-Oct-2019 06:44:01 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/plantilla_alcanceDao.php on line 292

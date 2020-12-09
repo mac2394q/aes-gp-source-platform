@@ -1,0 +1,316 @@
+[04-May-2019 20:22:10 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'usuarioController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php:159
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php on line 159
+[04-May-2019 20:22:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 38
+[04-May-2019 20:26:10 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php(159): usuarioController::listadoEmpleados()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 64
+[04-May-2019 20:26:30 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php(159): usuarioController::listadoEmpleados()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 64
+[04-May-2019 20:27:20 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php(159): usuarioController::listadoEmpleados()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 64
+[04-May-2019 20:28:22 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php(159): usuarioController::listadoEmpleados()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 64
+[04-May-2019 20:28:41 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php(159): usuarioController::listadoEmpleados()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 64
+[04-May-2019 20:28:43 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php(159): usuarioController::listadoEmpleados()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 64
+[04-May-2019 20:28:45 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php(159): usuarioController::listadoEmpleados()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 64
+[04-May-2019 20:29:15 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php(159): usuarioController::listadoEmpleados()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 64
+[04-May-2019 20:29:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php(159): usuarioController::listadoEmpleados()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 64
+[04-May-2019 20:31:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/empleados.php(159): usuarioController::listadoEmpleados()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 64
+[11-Sep-2019 01:24:49 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoEmpleados() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/empleados.php:112
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/empleados.php on line 112
+[11-Sep-2019 01:24:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoPaises() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarEmpleado.php:168
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarEmpleado.php on line 168
+[11-Sep-2019 01:25:12 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoEmpleados() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/empleados.php:112
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/empleados.php on line 112
+[11-Sep-2019 01:31:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoEmpleados() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/empleados.php:112
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/empleados.php on line 112
+[11-Sep-2019 11:01:43 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdempresarial() in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php:50
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/empleados.php(112): usuarioController::listadoUsuarios()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php on line 50
+[11-Sep-2019 11:02:15 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdempresarial() on null in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php:51
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/empleados.php(112): usuarioController::listadoUsuarios()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php on line 51
+[11-Sep-2019 11:02:58 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getNit_empresa() on null in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php:51
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/empleados.php(112): usuarioController::listadoUsuarios()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php on line 51
+[11-Sep-2019 11:13:41 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoEmpleados() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/index.php:117
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/index.php on line 117
+[11-Sep-2019 11:16:46 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoEmpleados() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/index.php:117
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/index.php on line 117
+[11-Sep-2019 11:17:54 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdempresarial() in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php:50
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/index.php(117): usuarioController::listadoUsuarios()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php on line 50
+[11-Sep-2019 11:19:04 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdempresarial() in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php:50
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/index.php(117): usuarioController::listadoUsuarios()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php on line 50
+[11-Sep-2019 11:21:55 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getEstado_empresa() in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php:64
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/index.php(117): usuarioController::listadoUsuarios()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/app/controllers/usuarioController.php on line 64
+[11-Sep-2019 11:53:42 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoPaises() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarEmpleado.php:168
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarEmpleado.php on line 168
+[11-Sep-2019 12:10:36 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoPaises() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:168
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 168
+[11-Sep-2019 12:11:12 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoPaises() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:168
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 168
+[11-Sep-2019 12:25:51 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoPaises() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:164
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 164
+[11-Sep-2019 12:26:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoPaises() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:164
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 164
+[11-Sep-2019 12:26:44 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::listadoPaises() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:166
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 166
+[11-Sep-2019 12:32:02 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'paisController' not found in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:166
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 166
+[11-Sep-2019 17:32:46 UTC] PHP Fatal error:  Cannot declare class usuarioController, because the name is already in use in /home1/portalxn/public_html/aesbeta2/app/controllers/paisController.php on line 5
+[11-Sep-2019 12:33:59 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'paisController' not found in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:166
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 166
+[11-Sep-2019 17:34:09 UTC] PHP Fatal error:  Cannot declare class usuarioController, because the name is already in use in /home1/portalxn/public_html/aesbeta2/app/controllers/paisController.php on line 5
+[11-Sep-2019 17:35:51 UTC] PHP Fatal error:  Cannot declare class usuarioController, because the name is already in use in /home1/portalxn/public_html/aesbeta2/app/controllers/paisController.php on line 5
+[11-Sep-2019 12:40:53 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:41:15 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:41:34 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:44:25 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:44:34 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:46:00 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:171
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 171
+[11-Sep-2019 12:47:05 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:47:36 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:47:57 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:54:10 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:56:07 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:57:43 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 170
+[11-Sep-2019 12:58:05 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:171
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 171
+[11-Sep-2019 13:02:04 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:171
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 171
+[11-Sep-2019 13:08:37 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:171
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 171
+[11-Sep-2019 13:09:35 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:171
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 171
+[11-Sep-2019 13:20:23 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type pais as array in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php:171
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/registrarUsuario.php on line 171
+[25-Sep-2019 04:42:43 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 22
+[25-Sep-2019 04:45:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getTipo_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:77
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 77
+[25-Sep-2019 04:46:56 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getTipo_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:145
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 145
+[25-Sep-2019 04:47:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getTipo_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:145
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 145
+[25-Sep-2019 04:48:35 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getDocumento_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:149
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 149
+[25-Sep-2019 04:49:10 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getDocumento_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:149
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 149
+[25-Sep-2019 04:49:54 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getMail_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:196
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 196
+[25-Sep-2019 04:50:37 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getMail_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:196
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 196
+[25-Sep-2019 04:51:21 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getPais_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:208
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 208
+[25-Sep-2019 05:29:04 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php on line 21
+[25-Sep-2019 05:30:45 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario_sesion() on null in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php:95
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php on line 95
+[25-Sep-2019 05:42:56 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/perfilEmpleado.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/perfilEmpleado.php on line 21
+[29-Sep-2019 01:29:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method paisController::listadoPaisId() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:201
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 201
+[29-Sep-2019 01:32:43 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method paisController::listadoPaisId() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:201
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 201
+[29-Sep-2019 01:33:28 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 22
+[29-Sep-2019 01:33:29 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 22
+[29-Sep-2019 01:34:52 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 22
+[29-Sep-2019 01:37:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdusuario() on null in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 21
+[29-Sep-2019 01:37:36 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getTipo_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php:127
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 127
+[20-Nov-2019 06:28:44 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php on line 21
+[20-Nov-2019 06:29:29 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php on line 21
+[21-Nov-2019 04:47:27 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getIdsesion_usuario() in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php on line 21
+[21-Nov-2019 05:03:37 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getLogin_usuario() on null in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php on line 81
+[21-Nov-2019 05:03:40 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getLogin_usuario() on null in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php on line 81
+[21-Nov-2019 05:03:49 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getLogin_usuario() on null in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/autentificacionEmpleado.php on line 81
+[29-Nov-2019 14:14:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/usuarioDao.php on line 184
+[29-Nov-2019 14:14:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/usuarioDao.php on line 184
+[29-Nov-2019 14:14:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/portalxn/public_html/aesbeta2/app/providers/pdo/usuarioDao.php on line 184
+[22-Dec-2019 14:50:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/portalxn/public_html/aesbeta2/resources/public/views/platform/modules/usuarios/verFicha.php on line 245
