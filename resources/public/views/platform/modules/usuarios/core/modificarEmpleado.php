@@ -30,7 +30,7 @@
 
         <div class='alert alert-success' role='alert'>
 
-                <li class='fa fa-check-circle'></li> Modificacion Realizado Con Exito ! &nbsp 
+                <li class='fa fa-check-circle'></li> Modificación Realizada Con Éxito ! &nbsp 
 
             </div>";   
   

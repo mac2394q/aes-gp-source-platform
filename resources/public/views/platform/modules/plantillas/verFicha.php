@@ -109,7 +109,7 @@
                                                 &nbsp;&nbsp;&nbsp;
                                                 <a href="<?php echo "agregarCapitulo.php?id=".$_GET['id'];?>"
                                                     class="btn text-white round capa btn-sm"><i
-                                                        class="fa fa-sort-numeric-up fa-3x"></i>&nbsp; Agregar  Capitulo </a>
+                                                        class="fa fa-sort-numeric-up fa-3x"></i>&nbsp; Agregar  Capítulo </a>
                                                 &nbsp;&nbsp;&nbsp;
                                                 
                                                 <a id="editarPlantilla" href="#" class="btn text-white round capa btn-sm"><i

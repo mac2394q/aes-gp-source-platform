@@ -26,8 +26,8 @@
 
       echo "<br>
         <div class='alert alert-success' role='alert'>
-                <li class='fa fa-check-circle'></li> Registro de validacion exitoso ! &nbsp 
+                <li class='fa fa-check-circle'></li> Registro de validación exitoso ! &nbsp 
             </div>
-        <a class='btn btn-info round btn-min-width mr-1 mb-1 waves-effect waves-light' href='".MODULE_APP_SERVER.'seguridad/verFichaSede.php?id='.seguridadDao:: ultimoRegistrada()."'  class='btn btn-gradient-primary text-white'><li class='fa fa-check-circle'></li>  Ficha de validacion</a>";
+        <a class='btn btn-info round btn-min-width mr-1 mb-1 waves-effect waves-light' href='".MODULE_APP_SERVER.'seguridad/verFichaSede.php?id='.seguridadDao:: ultimoRegistrada()."'  class='btn btn-gradient-primary text-white'><li class='fa fa-check-circle'></li>  Ficha de validación</a>";
 
 ?>  

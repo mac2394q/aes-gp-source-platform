@@ -17,7 +17,7 @@
             );
             plantillaController::editarPlantillaGrupo($modelPlantillaGrupo);
         echo "<div class='alert alert-success' role='alert'>
-             <li class='fa fa-check-circle'></li>  capitulo editada  correctamente ! &nbsp 
+             <li class='fa fa-check-circle'></li>  capítulo editada  correctamente ! &nbsp 
            </div>  
              ";
              $url =PLATFORM_SERVER."modules/plantillas/verGrupo.php?id=".$_POST['idgrupo'];

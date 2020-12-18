@@ -318,7 +318,7 @@
 
                                                                     <option value='PRIVADA'>PRIVADA</option>
 
-                                                                    <option value='PUBLICA'>PUBLICA</option>
+                                                                    <option value='PUBLICA'>PÚBLICA</option>
 
                                                                     <option value='MIXTA'>MIXTA</option>
 

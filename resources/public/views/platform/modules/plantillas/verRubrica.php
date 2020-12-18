@@ -70,7 +70,7 @@
                                     <div class="card-header">
                                         <h2 class="form-section"><i class="fa fa-business-time"></i>
                                             Elementos de Plantilla</h2>
-                                            <a href="<?php echo "agregarElementos.php?id=".$objGupo->getId_plantilla_alcance();?>" class="btn capa text-white  round btn-sm"><i class="fa fa-folder-plus fa-2x"></i>&nbsp;  Agregar Requisito  al Capitulo</a>
+                                            <a href="<?php echo "agregarElementos.php?id=".$objGupo->getId_plantilla_alcance();?>" class="btn capa text-white  round btn-sm"><i class="fa fa-folder-plus fa-2x"></i>&nbsp;  Agregar Requisito  al Capítulo</a>
                                        
                                     </div>
                                     <div class="card-content collapse show">

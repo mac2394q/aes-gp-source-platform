@@ -21,7 +21,7 @@
 
       echo "<br>
         <div class='alert alert-success' role='alert'>
-                <li class='fa fa-check-circle'></li> Modificacion de validacion exitoso ! &nbsp 
+                <li class='fa fa-check-circle'></li> Modificación de validación exitoso ! &nbsp 
             </div>
 ";
 $url =PLATFORM_SERVER."modules/seguridad/verFicha.php?id=".$_POST['id']; 

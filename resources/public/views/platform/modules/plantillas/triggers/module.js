@@ -36,7 +36,7 @@ $(document).on('click', '#registrarPlantilla', function(e) {
         });
     } else {
         swal({
-            title: "Error de validacion en el formulario",
+            title: "Error de validación en el formulario",
             text: "Actualmente hay obligatorios sin ingresar !",
             icon: "warning",
             dangerMode: true,
@@ -53,8 +53,8 @@ $(document).on('click', '#registrarCapitulo', function(e) {
     formData.append("idplantilla", document.getElementsByName("idplantilla")[0].value);
     if (consecutivo.length > 0 && etiqueta.length > 0) {
         swal({
-                title: "Agregar Capitulo",
-                text: "Esta seguro de agregar un nuevo capitulo ?",
+                title: "Agregar Capítulo",
+                text: "Esta seguro de agregar un nuevo capítulo ?",
                 icon: "success",
                 buttons: true,
                 dangerMode: true,
@@ -67,7 +67,7 @@ $(document).on('click', '#registrarCapitulo', function(e) {
             });
     } else {
         swal({
-            title: "Error de validacion en el formulario",
+            title: "Error de validación en el formulario",
             text: "Actualmente hay obligatorios sin ingresar !",
             icon: "warning",
             dangerMode: true,
@@ -101,7 +101,7 @@ $(document).on('click', '#registrarPlantillaGrupo', function(e) {
             });
     } else {
         swal({
-            title: "Error de validacion en el formulario",
+            title: "Error de validación en el formulario",
             text: "Actualmente hay obligatorios sin ingresar !",
             icon: "warning",
             dangerMode: true,
@@ -118,8 +118,8 @@ $(document).on('click', '#editarGrupo', function(e) {
     var text = document.getElementsByName("titulo")[0].value;
     if (nom.length > 0 && text.length > 0) {
         swal({
-                title: "Modificar Capitulo",
-                text: "Esta seguro de modificar el capitulo ?",
+                title: "Modificar Capítulo",
+                text: "Esta seguro de modificar el capítulo ?",
                 icon: "success",
                 buttons: true,
                 dangerMode: true,
@@ -132,8 +132,8 @@ $(document).on('click', '#editarGrupo', function(e) {
             });
     } else {
         swal({
-            title: "Error de validacion en el formulario",
-            text: "Esta seguro de editar el capitulo ? ",
+            title: "Error de validación en el formulario",
+            text: "Esta seguro de editar el capítulo ? ",
             icon: "warning",
             dangerMode: true,
         });
@@ -163,7 +163,7 @@ $(document).on('click', '#editarItem', function(e) {
             });
     } else {
         swal({
-            title: "Error de validacion en el formulario",
+            title: "Error de validación en el formulario",
             text: "Esta seguro de editar el requisito?",
             icon: "warning",
             dangerMode: true,
@@ -194,7 +194,7 @@ $(document).on('click', '#editarPlantilla', function(e) {
             });
     } else {
         swal({
-            title: "Error de validacion en el formulario",
+            title: "Error de validación en el formulario",
             text: "Actualmente hay obligatorios sin ingresar !",
             icon: "warning",
             dangerMode: true,
@@ -206,8 +206,8 @@ $(document).on('click', '#eliminarCapitulo', function(e) {
     var formData = new FormData();
     formData.append("id", $(this).attr('title'));
     swal({
-            title: "Eliminar Capitulo",
-            text: "Esta seguro de eliminar el capitulo ?",
+            title: "Eliminar Capítulo",
+            text: "Esta seguro de eliminar el capítulo ?",
             icon: "success",
             buttons: true,
             dangerMode: true,
@@ -244,7 +244,7 @@ $(document).on('click', '#clonar', function(e) {
     formData.append("id", $(this).attr('title'));
     console.log( $(this).attr('title'));
     swal({
-            title: "Clonacion de Plantilla",
+            title: "Clonación de Plantilla",
             text: "Esta seguro de clonar la plantilla ?",
             icon: "success",
             buttons: true,

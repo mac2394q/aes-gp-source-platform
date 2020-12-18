@@ -97,7 +97,7 @@
                                                                     <h5 class="card-title">
                                                                         <span class="text-danger">*</span>
                                                                         <li class="fa fa-audio-description"></li>
-                                                                        Titulo del Capítulo
+                                                                        Título del Capítulo
                                                                     </h5>
                                                                 </label>
                                                                 <input type="text" id="projectinput3"

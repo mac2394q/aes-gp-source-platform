@@ -115,7 +115,7 @@
                                 <div class="card">
                                     <div class="card-header">
                                         <h2 class="form-section"><i class="fa fa-business-time"></i>
-                                            Capitulo de la plantilla</h2>
+                                            Capítulo de la plantilla</h2>
                                         <!-- <h4 class="card-title">Elementos de conjunto</h4> -->
                                     </div>
                                     <div class="card-content collapse show">
@@ -145,7 +145,7 @@
                                                                 <button type="button" id="registrarCapitulo"
                                                                     class="btn text-white round capa waves-effect waves-light">
                                                                     <i class="fa fa-plus fa-2x"></i>
-                                                                    Agregar Capitulo</button>
+                                                                    Agregar Capítulo</button>
                                                             </div>
                                                             <br>
                                                         </form>

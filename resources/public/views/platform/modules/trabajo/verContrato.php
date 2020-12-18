@@ -342,7 +342,7 @@ $objContracto = contratoController::ContratoId($_GET['idcontrato']);
     });
 
   }else{
-    swal({title: "Error de validacion",
+    swal({title: "Error de validación",
           text: "Actualmente hay campos obligatorios pendiente!",
           icon: "warning",
           button: false, 

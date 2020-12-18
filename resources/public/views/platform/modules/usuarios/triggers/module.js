@@ -55,8 +55,8 @@ function modificarUsuario() {
     if ( nombre.length > 0  && documento.length > 0  && ciudad.length > 0  && correo.length > 0 && 
       telefono.length > 0 &&  direccion.length > 0  ) {
         swal({
-          title: "Modificar de Usuario",
-          text: "Esta seguro de Modificar  la Ficha de Usuario?",
+          title: "Modificación Usuario",
+          text: "Esta Seguro de Modificar  la Ficha de Usuario?",
           icon: "success",
           buttons: true,
           dangerMode: true,

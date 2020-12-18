@@ -247,17 +247,17 @@
 
                     </li>
 
-                    <li><a class="menu-item" href="https://www.correctoronline.es/">Corrector  Español</a>
+                    <li><a class="menu-item" href="https://www.correctoronline.es/">Corrector  Ortográfico</a>
 
                     </li>
 
-                    <li><a class="menu-item" href="https://languagetool.org/es/">Corrector  Idiomas</a>
+                    <li><a class="menu-item" href="https://translate.google.com/">Traductor  Idiomas</a>
 
                     </li>
 
-                    <li><a class="menu-item" href="https://convertio.co/es/document-converter/">Convertidor de Formatos</a>
+                    <!-- <li><a class="menu-item" href="https://convertio.co/es/document-converter/">Convertidor de Formatos</a>
 
-                    </li>
+                    </li> -->
 
                 </ul>
 

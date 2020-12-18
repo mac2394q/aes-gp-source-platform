@@ -121,7 +121,7 @@
                                                             <div class="form-group mb-1 col-sm-12 col-md-4">
                                                                 <label for="projectinput3"><span
                                                                         class="text-danger">*</span>
-                                                                    </span> Titulo Capitulo</label>
+                                                                    </span> Título Capítulo</label>
                                                                 <input type="text" id="projectinput3"
                                                                     class="form-control" placeholder=". . . "
                                                                     name="etiquetaPlantilla">

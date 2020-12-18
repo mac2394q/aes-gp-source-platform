@@ -317,7 +317,7 @@
                                             </div>
                                         </div>
                                         <h3 class="form-section">
-                                            <strong>7. CAPITULOS Y ASPECTOS EVALUADOS </strong>
+                                            <strong>7. CAPÍTULOS Y ASPECTOS EVALUADOS </strong>
                                         </h3>
                                         <div class="row">
                                         <?php plantillaController::listadoPlantillasGrupo2($objAuditoria->getIdplantilla_madre_aditoria()); ?>

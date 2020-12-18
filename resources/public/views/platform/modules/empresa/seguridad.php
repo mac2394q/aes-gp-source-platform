@@ -178,7 +178,7 @@
                                                         <button id="registrarDocumento"
                                                             class="btn btn-success waves-effect waves-light">
                                                             <i class="fa fa-th-list fa-2x"></i>&nbsp; Validar
-                                                            documentos validacion representante legal
+                                                            documentos validación representante legal
                                                         </button>
                                                         <div id="empresa"></div>
                                                     </div>

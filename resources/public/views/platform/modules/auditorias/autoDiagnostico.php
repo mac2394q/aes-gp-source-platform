@@ -63,7 +63,7 @@
                                     <div class="card-header">
                                         <h2 class="form-section"><i class="fa fa-business-time"></i>
                                             Plantilla PVP - Proceso de autodiagnostico de la empresa</h2>
-                                        <h4 class="card-title">Nota : Tener en cuenta que solo apareceran las rubricas de los capitulos que el auditor eligio para realizar la auditorio</h4>
+                                        <h4 class="card-title">Nota : Tener en cuenta que solo apareceran las rubricas de los capítulos que el auditor eligio para realizar la auditoría</h4>
                                         <a class="heading-elements-toggle"><i
                                                 class="la la-ellipsis-h font-medium-3"></i></a>
                                         <div class="heading-elements">

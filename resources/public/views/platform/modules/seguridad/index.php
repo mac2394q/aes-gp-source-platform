@@ -60,7 +60,7 @@
                 <div class="card">
                   <div class="card-header">
                   <ul class="list-inline mb-0">
-                      <li><a href="registrarSeguridad.php" class="btn btn-success btn-sm"><i class="fa fa-folder-plus fa-2x"></i>   Registrar nueva validacion</a></li>
+                      <li><a href="registrarSeguridad.php" class="btn btn-success btn-sm"><i class="fa fa-folder-plus fa-2x"></i>   Registrar nueva validación</a></li>
                       </ul>
                     <a class="heading-elements-toggle"><i class="la la-ellipsis-v font-medium-3"></i></a>
                     <div class="heading-elements">
