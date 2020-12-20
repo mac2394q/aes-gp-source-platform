@@ -99,9 +99,9 @@
                                     <div class="card-header">
                                         <h2 class="form-section"><i class="fa fa-business-time"></i>
                                             Elementos de Plantilla</h2>
-                                        <h4 class="card-title parrafo">Para evitar errores en la creacion de la plantilla por
+                                        <h4 class="card-title parrafo">Para evitar errores en la creación de la plantilla por
                                             favor elimine el primer elemento que aparece por defecto y vuelva a crear
-                                            presionando el botono agregar</h4>
+                                            presionando el botón agregar</h4>
                                        
                                     </div>
                                     <div class="card-content collapse show">

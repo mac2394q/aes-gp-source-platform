@@ -243,15 +243,15 @@
 
                 <ul class="menu-content">
 
-                    <li><a class="menu-item" href="https://smallpdf.com/es/convertidor-pdf">Convertidor de PDF</a>
+                    <li><a class="menu-item" href="https://smallpdf.com/es/convertidor-pdf" target="_blank">Convertidor de PDF</a>
 
                     </li>
 
-                    <li><a class="menu-item" href="https://www.correctoronline.es/">Corrector  Ortográfico</a>
+                    <li><a class="menu-item" href="https://www.correctoronline.es/" target="_blank">Corrector  Ortográfico</a>
 
                     </li>
 
-                    <li><a class="menu-item" href="https://translate.google.com/">Traductor  Idiomas</a>
+                    <li><a class="menu-item" href="https://translate.google.com/" target="_blank">Traductor  Idiomas</a>
 
                     </li>
 
