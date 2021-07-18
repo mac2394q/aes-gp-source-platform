@@ -267,6 +267,10 @@ $idempresa = $_GET['id'];
     require_once (PLATFORM_PATH."global/inc/platform/lib.php");
     
   ?>
+
+    <!-- Pipeline task fix  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+    <!-- Pipeline task fix  -->
     
     <script src="<?php echo CORE_JS_SERVER."directory.js"; ?>"></script>
     <script src="<?php echo CORE_JS_SERVER."app.js"; ?>"></script>

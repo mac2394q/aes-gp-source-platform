@@ -505,10 +505,18 @@ $(document).on('click', '#asignarUsuarioDiagnostico', function(e) {
         });
     return false;
 });
+
+/* Pipeline task fix  */
 $(document).on('click', '#asignarUsuarioPreauditoria', function(e) {
     var formData = new FormData();
     formData.append("usuario", document.getElementsByName("usuario")[0].value);
     formData.append("idempresa", document.getElementsByName("idempresa")[0].value);
+
+    /* if the conditional fails to shoot the swal event, 
+    the process will be carried out prior to the event */
+    var ruta = routesAppPlatform() + 'trabajo/core/asignarUsuarioPreauditoria.php';
+    sendEventFormDataApp('POST', ruta, formData, '#smg');
+
     swal({
             title: "Asignar usuario a la fase  de Pre Auditoría",
             text: "Esta seguro de asignar el usuario seleccionado a la fase de pre Auditoría ? ",
@@ -524,6 +532,9 @@ $(document).on('click', '#asignarUsuarioPreauditoria', function(e) {
         });
     return false;
 });
+/* Pipeline task fix  */
+
+
 $(document).on('click', '#asignarUsuarioImplementacion', function(e) {
     var formData = new FormData();
     formData.append("usuario", document.getElementsByName("usuario")[0].value);
